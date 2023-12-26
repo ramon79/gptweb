@@ -1,0 +1,23 @@
+/* 청첩장 스타일링을 위한 CSS 파일 */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin-bottom: 20px;
+    image-rendering: -webkit-optimize-contrast; /* 웹킷 기반 브라우저용 옵티마이즈 콘트라스트 속성 추가 */
+}
+
+h1 {
+    color: #0066cc;
+}
+
+p {
+    margin: 10px 0;
+    color: #333;
+}
